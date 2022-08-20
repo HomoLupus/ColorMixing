@@ -15,6 +15,6 @@ Main menu - click "enter" if you want to start and "I" if you want to see more d
 <br><br>
 
 Player needs to collect the right color hearts to open the door.
-Hearts spawns randomly you can pick them by clicking "space", to reset level get all 3 hearts.
+Hearts spawns randomly. To pick them click the  "space", get all 3 hearts to reset level .
 
 ![image](https://user-images.githubusercontent.com/83671766/185751505-eba3df74-c3b4-48ac-a7c7-bb3cffcfaeef.png)
